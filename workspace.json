@@ -1,0 +1,8 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "trpc-tutorial": "apps/trpc-tutorial",
+    "trpc-tutorial-e2e": "apps/trpc-tutorial-e2e"
+  }
+}
